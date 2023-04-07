@@ -26,5 +26,4 @@ function ShellApplication(name) {
 		};
 	};
 }
-
 module.exports = lib.proxify(ShellApplication, "ShellApplication");
